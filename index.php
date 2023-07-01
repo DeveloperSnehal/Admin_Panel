@@ -978,6 +978,4 @@
             </div>
             <!-- End Page-content -->
 
-
-
 <?php include("footer.php") ?>
